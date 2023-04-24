@@ -13,7 +13,19 @@ public class MenuService : IMenuService
 
     public List<Burger> GetAvailableBurgers(List<Cook> cooks)
     {
-        return null;
+        var availableBurgers = new List<Burger>();
+        foreach (var burger in _allBurgers)
+        {
+            foreach (var cook in cooks)
+            {
+                if (cook.IngredientCapacity >= burger.NumberOfDifferentIngredients)
+                {
+                    availableBurgers.Add(burger);
+                    break; // a cook can make this burger, move on to the next burger
+                }
+            }
+        }
+        return availableBurgers;
     }
 
     private static List<Burger> GenerateAllBurgers()

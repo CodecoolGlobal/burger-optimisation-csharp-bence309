@@ -37,11 +37,17 @@ public class BurgerOptimisationUi
 
     private void DisplayAvailableBurgers(List<Burger> burgers)
     {
+        string names = string.Join(", ", burgers.Select(burger => burger.Name));
+        Console.WriteLine("Available Burgers: " + names);
     }
 
 
     private void AddOrdersToIOrderService(List<Burger> burgers)
     {
+        foreach (Burger burger in burgers)
+        {
+            _orderService.AddBurger(burger);
+        }
     }
 
     private Queue<Meal> PrepareOrders()
@@ -66,5 +72,13 @@ public class BurgerOptimisationUi
 
     private void DisplayMeals(Queue<Meal> meals)
     {
+        int orderId = 0;
+        foreach (Meal meal in meals)
+        {
+            Burger burger = meal.Order.Burger;
+            Cook cook = meal.Cook;
+            Console.WriteLine($"Order id: {orderId}; Burger: {burger.Name} [Ingredients: {burger.NumberOfDifferentIngredients}]; Prepared by: {cook.Name} [Capacity level: {cook.IngredientCapacity}]");
+            orderId++;
+        }
     }
 }

@@ -1,0 +1,15 @@
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\bin\Debug\net6.0\CodeCool.BurgerOptimization.exe
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\bin\Debug\net6.0\CodeCool.BurgerOptimization.deps.json
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\bin\Debug\net6.0\CodeCool.BurgerOptimization.runtimeconfig.json
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\bin\Debug\net6.0\CodeCool.BurgerOptimization.dll
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\bin\Debug\net6.0\CodeCool.BurgerOptimization.pdb
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\obj\Debug\net6.0\CodeCool.BurgerOptimization.csproj.AssemblyReference.cache
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\obj\Debug\net6.0\CodeCool.BurgerOptimization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\obj\Debug\net6.0\CodeCool.BurgerOptimization.AssemblyInfoInputs.cache
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\obj\Debug\net6.0\CodeCool.BurgerOptimization.AssemblyInfo.cs
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\obj\Debug\net6.0\CodeCool.BurgerOptimization.csproj.CoreCompileInputs.cache
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\obj\Debug\net6.0\CodeCool.BurgerOptimization.dll
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\obj\Debug\net6.0\refint\CodeCool.BurgerOptimization.dll
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\obj\Debug\net6.0\CodeCool.BurgerOptimization.pdb
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\obj\Debug\net6.0\CodeCool.BurgerOptimization.genruntimeconfig.cache
+D:\Codecool\OOPC#\RiderSolutions\burger-optimisation-csharp-bence309\CodeCool.BurgerOptimization\obj\Debug\net6.0\ref\CodeCool.BurgerOptimization.dll
